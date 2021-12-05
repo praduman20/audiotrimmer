@@ -2,9 +2,10 @@
 React based website to play the audio and trim the audio...
 
 Installation
-1.Download all the files from github. 
 
-2.Create a folder on you desktop and move these files to that folder. Open that folder in the vscode.
+1.Download the files from github. 
+
+2.Create a folder on your desktop and move these files to that folder. Open that folder in the vscode.
 
 3.In the terminal type : npm install
 
