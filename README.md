@@ -1,19 +1,17 @@
 # AudioTrimmer
-react based website to play the audio and trim the audio
+React based website to play the audio and trim the audio...
 
-# How to Run
-1.Download all the files from my github (given link) . The files are node_modules, src, public .gitignore, package.json , package-lock.json
+Installation
+1.Download all the files from github. 
 
-2.create a folder on you desktop and move these files to that folder. Open that folder in the vscode.
+2.Create a folder on you desktop and move these files to that folder. Open that folder in the vscode.
 
-3.In the terminal type: npm start
+3.In the terminal type : npm install
 
-4.Then automatically browser will show my page at localhost:3000
+4.In the terminal type: npm start
 
-the below image shows home page:
-![Alt text](img/homepage.png?raw=true "Title")
+5.Then automatically browser will show my page at localhost:3000
 
-the below image shows audio player page:
-![Alt text](img/audiopage.png?raw=true "Title")
+![Screenshot 2021-12-06 003516](https://user-images.githubusercontent.com/87388316/144760035-476daabc-2b6b-47ee-8e9b-2dd568fef66b.png)
 
-Thankyou..
+![Screenshot 2021-12-06 003602](https://user-images.githubusercontent.com/87388316/144760043-720ab631-6ade-44ce-b51e-73f86e2a64de.png)
